@@ -1,0 +1,14 @@
+/===============================================================/
+/	Vigenere Cipher						/
+/Options: 							/
+/   1)	Encrypt a message.					/
+/   2)	Decrypt a message.					/
+/   3)	Encrypt and then decrypt message.			/
+/   4)  Select a textfile to encrypt.	(not yet implemented)	/
+/   5)  Select a textfile to decrypt.	(not yet implemented)	/
+/   6)  quit    (not yet implemented)				/
+/								/
+/		Enter a number to run an options in those list.	/
+/		--help   = use this "<choosenNum> --help"syntax,/
+/			   on how to use each options.		/
+/===============================================================/
