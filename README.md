@@ -13,4 +13,4 @@ I should really make a "//note:" phrase when making a program,
 	it really makes it easier to read back to where I left!
 
 sign testing.... 2nd test.....3rd test....4th time....
-
+after making new gpg and putting that on github with the same email!
